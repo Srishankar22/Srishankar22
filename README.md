@@ -44,8 +44,8 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' alt='
-I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping !☕️💻' /></a>
+    <p style="color: #4a90e2; font-style: italic;">I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping! ☕️💻</p>
 </div>
+
 
 <br/>

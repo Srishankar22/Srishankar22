@@ -44,7 +44,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&lines=I+code+like+a+ninja%2C+except+without+the+stealth+or+martial+arts+skills.+Just+lots+of+coffee+and+keyboard+tapping!+☕️💻" />
+    <p><span style="font-family: Righteous, sans-serif; font-size: 24px; font-weight: bold; color: #4a90e2;">I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping! ☕️💻</span></p>
 </div>
+
 
 <br/>

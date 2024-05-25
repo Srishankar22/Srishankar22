@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-    <p style="font-size: 18px; font-weight: bold;">I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping! ☕️💻</p>
+    <p style="font-family: Righteous, sans-serif; font-size: 24px; font-weight: bold; color: #4a90e2;">I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping! ☕️💻</p>
 </div>
 
 <br/>

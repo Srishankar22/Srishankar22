@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srishankar+Sumatharan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&bold=true&lines=Hi+There!+👋;+I'm+Srishankar+Sumatharan!;" />
 </h1>
+
 
 
 <h3 align="center">Software Engineering undergraduate at Informatics Institute of Technology</h3>

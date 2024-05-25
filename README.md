@@ -20,15 +20,18 @@
  
 <div align="center">
     <a href="mailto:sumatharans@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> sumatharans@gmail.com
     </a>
+    <br>
     <a href="https://www.linkedin.com/in/srishankar-sumatharan/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> https://www.linkedin.com/in/srishankar-sumatharan/
     </a>
+    <br>
     <a href="https://salesp07.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     </a>
 </div>
+
 
 
  <hr/>

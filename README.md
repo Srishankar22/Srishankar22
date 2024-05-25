@@ -10,11 +10,11 @@
  
  🔭 I’m interested in **full stack development, web applications, and cloud computing**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 **I’m currently learning React, Node.js, and AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💞️ I’m looking to collaborate on real-world projects to gain experience in full stack development
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact: I am a graphic designer too, who can design a poster without any content given to me!
 
  </div>
  

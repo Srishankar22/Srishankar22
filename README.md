@@ -1,4 +1,4 @@
-👋 Hi, I’m @Srishankar22
+👋 Hi, I’m Srishankar Sumatharan
 👀 I’m interested in full stack development, web applications, and cloud computing
 🌱 I’m currently learning React, Node.js, and Docker
 💞️ I’m looking to collaborate on real-world projects to gain experience in full stack development
